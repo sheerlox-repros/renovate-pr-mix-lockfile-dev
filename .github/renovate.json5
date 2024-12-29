@@ -9,6 +9,11 @@
     "github>insurgent-lab/.github//renovate/base",
   ],
 
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": ["at any time"]
+  },
+
   "packageRules": [
     /**
      * =========================================
