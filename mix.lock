@@ -5,5 +5,5 @@
   "plug_crypto": {:hex, :plug_crypto, "2.1.0", "f44309c2b06d249c27c8d3f65cfe08158ade08418cf540fd4f72d4d6863abb7b", [:mix], [], "hexpm", "131216a4b030b8f8ce0f26038bc4421ae60e4bb95c5cf5395e1421437824c4fa"},
   "sourceror": {:hex, :sourceror, "1.7.1", "599d78f4cc2be7d55c9c4fd0a8d772fd0478e3a50e726697c20d13d02aa056d4", [:mix], [], "hexpm", "cd6f268fe29fa00afbc535e215158680a0662b357dc784646d7dff28ac65a0fc"},
   "spark": {:hex, :spark, "2.2.36", "07c921e5efb27f184267c3431d2f82099e24cac90748a47383dd75cbfb558268", [:mix], [{:igniter, ">= 0.3.64 and < 1.0.0-0", [hex: :igniter, repo: "hexpm", optional: true]}, {:jason, "~> 1.4", [hex: :jason, repo: "hexpm", optional: false]}, {:sourceror, "~> 1.2", [hex: :sourceror, repo: "hexpm", optional: false]}], "hexpm", "e5ac56b75e5ad43da6d8302b6713277488f8e9a3abdba9aae8f0d0f9cff04538"},
-  "splode": {:hex, :splode, "0.2.6", "40721b5994dcf73c4f416e53fadfa9871505bc4652842a3d65a4bfa5835e136b", [:mix], [], "hexpm", "ca3916f55ee99ef4d0c039bd6dba8b4858ff0d65ecb20f5152e4dd1839432f5e"},
+  "splode": {:hex, :splode, "0.2.7", "ed042fa9bd8fe7b66dd0a0faabdb97352058420d90cd1c7c1537f609deb7ef6d", [:mix], [], "hexpm", "267f1f51d5a5ac988cda0649498294844988c5086916fed5a8aff297d69a2059"},
 }
